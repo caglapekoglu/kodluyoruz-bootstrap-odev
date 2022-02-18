@@ -1,0 +1,26 @@
+header{
+    background-color: #E9ECEF;
+    text-align: center;
+    align-items: center;
+    padding-top: 10rem;
+    padding-bottom: 50rem;
+    width: 100%;
+
+}
+body{
+    background-color: #E9ECEF;
+}
+p{
+    font-size: 20px;
+    margin-bottom: 50px;
+}
+img{
+    height: 400px;
+}
+.titles{
+    background-color: #E9ECEF;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    text-align: center;
+}
